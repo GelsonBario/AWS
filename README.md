@@ -63,3 +63,12 @@ Benefício Imediato: Garante a previsibilidade financeira da empresa, permitindo
 
 Conclusão
 A implementação de ferramentas na empresa Farmácia Vida & Saúde tem como esperado a redução drástica de custos operacionais através do modelo serverless, alta durabilidade de dados críticos com o S3 e previsibilidade financeira total via AWS Budgets. Essas melhorias aumentarão a eficiência e a produtividade da empresa, permitindo que o foco permaneça no atendimento ao cliente e não na manutenção de infraestrutura física. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Anexos
+Código-fonte da Função Lambda: Localizado na pasta /src/lambda_function.py deste repositório.
+
+Diagrama de Arquitetura: Desenho técnico da integração entre API Gateway, Lambda e S3.
+
+Relatório de Estimativa de Custos: Exportação em PDF da calculadora oficial da AWS.
+
+Políticas de Ciclo de Vida do S3: Documentação das regras de transição para o Glacier.
